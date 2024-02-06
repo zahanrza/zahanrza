@@ -13,8 +13,9 @@ January 2023 – August 2023
 * Developed websites with responsive design for optimal viewing on multiple devices.
 * Created webpages with cross-browser compatibility.
 
-  --- Web Designing Course Completed, Acesoftech Academy, Kolkata--
-      January 2022 – October 2022
+-- Web Designing Course Completed, Acesoftech Academy, Kolkata--
+  January 2022 – October 2022
+      
 --EDUCATIONAL QUALIFICATION--
 -Matriculation of Jac, Ranchi - 2013 
 - Intermediate Of Science, BSEB, Patna - 2016 
