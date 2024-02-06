@@ -4,7 +4,7 @@ My Skills include HTML5,CSS3,BOOTSTRAP5,JAVASCRIPT,JQUERY AND PHP.
 Collaborates with cross-functional teams to develop 
 websites that meet customer needs.
 
----wORK EXPERIENCE---
+---WORK EXPERIENCE---
 -HTML Developer, Suhanasoftech Pvt Ltd, Kolkata--
 January 2023 – August 2023 
 * Developed over 30 webpages using HTML5, CSS3, BOOTSTRAP5 and JavaScript, Jquery.
