@@ -6,7 +6,11 @@ websites that meet customer needs.
 
 ---WORK EXPERIENCE---
 -HTML Developer, Suhanasoftech Pvt Ltd, Kolkata--
+February 2024 – Continue
+
+-HTML Developer, Suhanasoftech Pvt Ltd, Kolkata--
 January 2023 – August 2023 
+
 * Developed over 30 webpages using HTML5, CSS3, BOOTSTRAP5 and JavaScript, Jquery.
 * Built and maintained multiple webpages with optimized loading time.
 * Collaborated with designers to develop user-friendly websites.
