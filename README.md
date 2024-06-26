@@ -5,7 +5,8 @@ Collaborates with cross-functional teams to develop
 websites that meet customer needs.
 
 ---WORK EXPERIENCE---
--HTML Developer, Suhanasoftech Pvt Ltd, Kolkata--
+
+-HTML Developer, Fusion TechLab Pvt Ltd, Kolkata--
 February 2024 – Continue
 
 -HTML Developer, Suhanasoftech Pvt Ltd, Kolkata--
